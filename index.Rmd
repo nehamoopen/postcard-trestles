@@ -1,0 +1,30 @@
+---
+title: "Neha Moopen"
+image: "1_NM.jpg"
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", height = "30px")`'
+    url: "https://www.linkedin.com/in/neha-moopen/"
+  - label: '`r fontawesome::fa(name = "twitter", height = "30px")`'
+    url: "https://twitter.com/NehaMoopen"
+  - label: '`r fontawesome::fa(name = "github", height = "30px")`'
+    url: "https://github.com/nehamoopen"
+  - label: '`r fontawesome::fa(name = "envelope", height = "30px")`'
+    url: "mailto:n.moopen@uu.nl"
+  - label: <i class="ai ai-orcid ai-2x"></i>
+    url: "https://orcid.org/0000-0003-1412-4402" 
+  - label: <i class="ai ai-google-scholar ai-2x"></i>
+    url: "https://scholar.google.nl/citations?user=q_cH9ZgAAAAJ&hl=en"
+  - label: <i class="ai ai-cv ai-2x"></i>
+    url: "https://nehamoopen.github.io/CV/"
+    
+output:
+  postcards::solana
+---
+
+<!--Academicons Icons-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+ 
+## Neha Moopen
+
+Yo I am Research Data Manager
+
